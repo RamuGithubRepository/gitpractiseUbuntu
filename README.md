@@ -1,5 +1,3 @@
-# gitpractiseUbuntu
-Git practise on Ubuntu 
-I am practising on GitLab Ubuntu server
+welcome to GITHUB.
 
-THis is second commit
+Pracise started with repository RamuGitHubRepository
